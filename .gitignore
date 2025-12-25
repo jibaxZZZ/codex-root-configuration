@@ -1,0 +1,10 @@
+.DS_Store
+.codex/.DS_Store
+.codex/archived_sessions/*
+.codex/log/*
+.codex/logs/*
+.codex/sessions/*
+.codex/history.jsonl
+.codex/auth.json
+**/__pycache__/
+*.pyc
