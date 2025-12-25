@@ -6,5 +6,6 @@
 .codex/sessions/*
 .codex/history.jsonl
 .codex/auth.json
+.codex/config.toml
 **/__pycache__/
 *.pyc
